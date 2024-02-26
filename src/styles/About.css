@@ -1,0 +1,17 @@
+
+
+ .mainContainerAbout
+{
+   
+    margin:10px 30px 10px 30px;
+    text-align:justify;
+    
+
+} 
+
+
+.containerButtonAbout
+{
+    display:flex;
+    justify-content: center;
+}

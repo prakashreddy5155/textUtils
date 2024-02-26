@@ -1,0 +1,21 @@
+
+.mainContainerTextUtils
+{
+  display:flex;
+  justify-content: center;
+   margin :10px 20px 10px 20px;
+
+}
+
+
+
+.btn-containerTextUtils
+{
+  display:flex;
+  justify-content: center;
+}
+
+.btnTextUtils  
+{
+  margin-right:3px;
+}
